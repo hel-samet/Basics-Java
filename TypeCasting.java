@@ -14,7 +14,9 @@ public class TypeCasting {
 
         double d = 13.12;
         int i = (int) d;
+        double l= (double)d;
         System.out.println(i);
+        System.out.println(l);
 
     }
 }
