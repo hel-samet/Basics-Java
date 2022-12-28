@@ -10,3 +10,9 @@
 - សិក្សា និងបង្កើត Block Theme
 - សិក្សា បង្កើត និងប្រើប្រាស់ Custom Post Type
 - សិក្សា បង្កើត និងប្រើប្រាស់ Custom Taxonomy
+
+
+
+##### Name: Hel Samet
+
+##### Email: 1220.hel.samet@rupp.edu.kh
