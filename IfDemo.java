@@ -2,9 +2,10 @@ public class IfDemo {
     public static void main(String[] args) {
         // if stament
         // comparsion -> ==, !=, >,<,>=,
+        // សម្រាប់មួយលក្ខណ័
         int a = 10;
         if (a > 5) {
-            // body if // សម្រាប់មួយលក្ខណ័
+            // body if
             System.out.println("a is greater than 5");
 
         }
