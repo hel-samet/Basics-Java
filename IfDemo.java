@@ -4,12 +4,13 @@ public class IfDemo {
         // comparsion -> ==, !=, >,<,>=,
         int a = 10;
         if (a > 5) {
-            // body if
+            // body if // សម្រាប់មួយលក្ខណ័
             System.out.println("a is greater than 5");
 
         }
         System.out.println("====================================");
-        // if...else
+
+        // if...else // សម្រាប់ពីរលក្ខណ័
         int b = 17;
         if (b > 18) {
             // body if
@@ -21,7 +22,7 @@ public class IfDemo {
         }
         System.out.println("====================================");
 
-        // if....else if ...else
+        // if....else if ...else // សម្រាប់បីលក្ខណ័
         int score = 90;
 
         if (score <= 50) {
@@ -30,8 +31,8 @@ public class IfDemo {
         } else if (score <= 60) {
             // body else if
             System.out.println("You are greate D"); // ប្រសិនបើ 90<=60 នោះលក្ខណ័វាមិនដើរទេ
-        } else if(score <=90){
-             System.out.println("You are greate C"); // ប្រសិនបើ 90<=90 នោះលក្ខណ័ដើរ 
+        } else if (score <= 90) {
+            System.out.println("You are greate C"); // ប្រសិនបើ 90<=90 នោះលក្ខណ័ដើរ
         } else {
             // else
             System.out.println("You've done a good greade");
