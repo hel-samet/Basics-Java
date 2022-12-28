@@ -22,15 +22,16 @@ public class IfDemo {
         System.out.println("====================================");
 
         // if....else if ...else
-        int score = 50;
+        int score = 90;
 
         if (score <= 50) {
             // body if
-            System.out.println("you are greate E");
+            System.out.println("you are greate E"); // ប្រសិនបើ 90<=50 នោះលក្ខណ័វាមិនដើរទេ
         } else if (score <= 60) {
             // body else if
-            System.out.println("You are greate D");
-
+            System.out.println("You are greate D"); // ប្រសិនបើ 90<=60 នោះលក្ខណ័វាមិនដើរទេ
+        } else if(score <=90){
+             System.out.println("You are greate C"); // ប្រសិនបើ 90<=90 នោះលក្ខណ័ដើរ 
         } else {
             // else
             System.out.println("You've done a good greade");
