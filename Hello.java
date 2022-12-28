@@ -4,5 +4,6 @@
 class hello {
     public static void main(String[] agrs) {
         System.out.println("Hello java Programming!");
+        System.out.println("Hello java Programming!");
     }
 }
