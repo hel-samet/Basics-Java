@@ -1,7 +1,7 @@
-#វីដេអូសិក្សាមូលដ្ឋានគ្រឹះ និង បង្កើត WordPressTheme![screenshot]
-(https://user-images.githubusercontent.com/113760359/209821539-a807b12b-3385-412e-a35b-d1b95ee4bc93.png)
+ វីដេអូសិក្សាមូលដ្ឋានគ្រឹះ និង បង្កើត WordPressTheme!
+![screenshot](https://user-images.githubusercontent.com/113760359/209821814-a17abe61-7ac7-43cb-85ee-ad2c1226cd5e.png)
 
-##មាតិការវីដេអូ
+ មាតិការវីដេអូ
 
 - សិក្សាអំពី Tools ដែលត្រូវប្រើប្រាស់ជាមួយ WordPress
 - សិក្សាមុខងារសំខាន់ៗដែលមានក្នុង WordPress
