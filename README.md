@@ -14,6 +14,6 @@
 
 
 ###### Name: Hel Samet
-###### Telegram: 088 20 25 364
 ###### Email: 1220.hel.samet@rupp.edu.kh
 - Facebook : https://www.facebook.com/helsamet.official
+- Telegram : https://t.me/helsamet
