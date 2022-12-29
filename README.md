@@ -13,7 +13,6 @@
 
 
 
-###### Name: Hel Samet
 ###### Email: 1220.hel.samet@rupp.edu.kh
 - Facebook : https://www.facebook.com/helsamet.official
 - Telegram : https://t.me/helsamet
